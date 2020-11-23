@@ -1,8 +1,7 @@
 # Github-API-Swift
 Github API Swift using language search
 
--> MVVM
--> Github Search API
--> Search Using Language
--> Generics
--> Unit Testing
+ Markup : - [x] GitHub API 
+          - [x] MVVM
+          - [x] Swift 5 (Result Type)
+          - [x] Generics
