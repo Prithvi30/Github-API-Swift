@@ -6,3 +6,4 @@ Github API using Swift with language search
 * MVVM Design Pattern
 * Generics 
 * Swift 5 Result Type
+* Unit Testing
