@@ -1,4 +1,4 @@
 # Github-API-Swift
-Github API Swift using language search
+Github API using Swift with language search
 
 
